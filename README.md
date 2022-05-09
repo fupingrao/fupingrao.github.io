@@ -28,15 +28,14 @@ Syntax highlighted code block
 
 ## 项目经历
 1.qqqq
-_dddd
-_ffff
+-dddd
+-ffff
 
 2.wwww
 
-_dddd
+-dddd
 
-_ffff
-
+-ffff
 - Bulleted
 - List
 
@@ -87,20 +86,26 @@ Github 是个管理和记录代码的网站
 
 ## 学习经历
 111
+
 222
+
 333
 ## 工作经历
 1.aaaa
+
 2.bbb
+
 3.ccc
 
 ## 项目经历
 1.qqqq
-_dddd
-_ffff
+
+-dddd
+
+-ffff
 
 2.wwww
 
-_dddd
+-dddd
 
-_ffff
+-ffff
