@@ -22,9 +22,9 @@ Syntax highlighted code block
 222
 333
 ## 工作经历
-1.aaaa
-2.bbb
-3.ccc
+1. aaaa
+2. bbb
+3. ccc
 
 ## 项目经历
 1.qqqq
@@ -49,7 +49,6 @@ Syntax highlighted code block
 
 高亮部分结束
 
-试试 # 的效果
 
 # 标题
 Github 是个管理和记录代码的网站
@@ -98,14 +97,14 @@ Github 是个管理和记录代码的网站
 3.ccc
 
 ## 项目经历
-1.qqqq
+### 1.qqqq
 
--dddd
+- dddd
 
--ffff
+- ffff
 
-2.wwww
+### 2.wwww
 
--dddd
+- dddd
 
--ffff
+- ffff
